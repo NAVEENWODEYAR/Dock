@@ -12,3 +12,4 @@ Docker Commands
   d. docker run <image-id/name> : to run the image(container creation).
   e. docker rmi <image-id/name> : to delete the image.
   f. docker rm <comtainer-id> : to delete the container.
+  g. docker system prune-a : clean the docker.
