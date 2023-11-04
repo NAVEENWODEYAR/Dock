@@ -8,3 +8,7 @@ Docker Architecture,
 Docker Commands
   a. docker images : to display list of available images.
   b. docker ps : to display the list of containsers available.
+  c. docker pull <image-id/name> : to download the image.
+  d. docker run <image-id/name> : to run the image(container creation).
+  e. docker rmi <image-id/name> : to delete the image.
+  f. docker rm <comtainer-id> : to delete the container.
