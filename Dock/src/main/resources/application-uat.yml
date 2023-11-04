@@ -1,0 +1,4 @@
+# UAT - Environment,
+
+server:
+  port: 3333
