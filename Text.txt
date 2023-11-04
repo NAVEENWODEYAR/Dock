@@ -15,3 +15,4 @@ Docker Commands
   g. docker system prune-a : clean the docker.
   h. docker run -p 8080:8080. // port mapping(host port:container port),
   i. docker run -d -p 8080:8080. // run in detached mode , run in background,
+  j. docker logs <container-id> : to check the logs of the running application.
