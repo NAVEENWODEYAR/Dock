@@ -4,3 +4,7 @@ Docker Architecture,
 2. Docker Image : Package contains code + dependencies(required softwares).
 3. Docker Registry(Hub): Place to store docker images(Jfrog,Splunk).
 4. Docker Container(Linux Virtual Machine) : While runnig the docker image it will be created and our application will execute inside it.
+
+Docker Commands
+  a. docker images : to display list of available images.
+  b. docker ps : to display the list of containsers available.
