@@ -13,3 +13,4 @@ Docker Commands
   e. docker rmi <image-id/name> : to delete the image.
   f. docker rm <comtainer-id> : to delete the container.
   g. docker system prune-a : clean the docker.
+  h. docker run -p 8080:8080. // port mapping(host port:container port)
