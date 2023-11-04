@@ -1,0 +1,6 @@
+Docker Architecture,
+
+1. Docker File : Contains set of instructions to build docker image.
+2. Docker Image : Package contains code + dependencies(required softwares).
+3. Docker Registry(Hub): Place to store docker images(Jfrog,Splunk).
+4. Docker Container : While runnig the docker image it will be created and our application will execute inside it.
